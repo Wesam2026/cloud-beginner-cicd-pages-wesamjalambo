@@ -2,13 +2,11 @@
 
 This project is a simple static website created for the Cloud Computing course.
 
-## Files
-index.html
-style.css
-script.js
+## Project Title
+Cloud CI/CD Beginner Assignment
 
-## Run locally
-Open index.html in your browser.
+## Run Locally
+Download the project files and open index.html in your browser.
 
-## GitHub Pages link
+## GitHub Pages Link
 Will be added after deployment.
